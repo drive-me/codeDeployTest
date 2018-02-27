@@ -5,5 +5,5 @@ files:
     destination: c:\inetpub\wwwroot
 hooks:
   BeforeInstall:
-    - location: c:\temp\HelloWorldApp\before-install.bat
+    - location: before-install.bat
       timeout: 900

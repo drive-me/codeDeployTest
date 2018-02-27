@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: c:\temp\HelloWorldApp\index.html
+  - source: index.html
     destination: c:\inetpub\wwwroot
 hooks:
   BeforeInstall:
